@@ -1,9 +1,0 @@
-{
-  "authority_score": 0.25,
-  "foundational_value": 0.2,
-  "entity_relationship_clarity": 0.2,
-  "currentness_score": 0.1,
-  "content_specificity": 0.1,
-  "document_structure_quality": 0.1,
-  "risk_penalties": 0.05
-}
