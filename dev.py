@@ -13,8 +13,11 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import sys
 from pathlib import Path
+
+os.environ["BASE_DIR"] = str(Path(__file__).resolve().parent)
 
 from app.graph.builder import build_graph
 
